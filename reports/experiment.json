@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "synthetic_days": 120,
+  "holdout_days": 24,
+  "timezone": "UTC",
+  "runtime_seconds": 0.5442219169344753,
+  "max_balance_residual_kwh": 8.881784197001252e-16,
+  "simultaneous_battery_intervals": 0,
+  "simultaneous_grid_intervals": 0
+}
